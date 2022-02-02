@@ -46,7 +46,7 @@
 <div class="contact-items">
     <p>Signal / WhatsApp<br><strong>+1 703 489 1697</strong></p>
     <p>Email<br><strong>sam@sambutler.us</strong></p>
-    <p><a href="">Calendar</a></p>
+    <p><a href="https://calendly.com/sambutler8/meeting">Calendar</a></p>
 </div>
 
 <p>Organizations and individuals, interested in providing funding or collaborative support for initiatives like these?  Send a message to the contacts above, or set a time to speak on the calendar (and please include details about your interests and context.)</p>
