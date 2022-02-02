@@ -52,9 +52,9 @@
 <p>Organizations and individuals, interested in providing funding or collaborative support for initiatives like these?  Send a message to the contacts above, or set a time to speak on the calendar (and please include details about your interests and context.)</p>
 </div>
 <style>
-    .no-list p {
+    /* .no-list p {
         width: 100px;
-    }
+    } */
 
     .alt-list > div {
         max-width: 300px;
