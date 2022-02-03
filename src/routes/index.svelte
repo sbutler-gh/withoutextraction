@@ -35,8 +35,8 @@
     <p>Extractive Projects</p>
 </div> -->
 
-<h3 style="text-align: center;">There are ways to earn <span>better income</span>,<br>
-<span>in reciprocation with nature.</span></h3>
+<h3 style="text-align: center;">There are ways to earn <span class="green-underline">better income</span>,<br>
+<span class="green-underline">in reciprocation with nature</span>.</h3>
 
 <div class="alt-list" style="text-align: center; display: flex; flex-wrap: wrap; justify-content: space-between">
     <div style="max-width: 300px;">
@@ -221,7 +221,7 @@
       </svg><br><a href="https://calendly.com/sambutler8/meeting">Schedule conversation</a></p>
 </div>
 
-<p>Interested in providing funding or collaborative support for initiatives like these?<br><br>Reach out via a contact above, or set a time to speak on the calendar (and please include details about your interests and context.)</p>
+<p>Interested in providing funding or collaborative support for initiatives like these?<br><br>Reach out via a contact above, or set a time to speak on the calendar.  Please include details about your interests and how you'd like to support / collaborate.</p>
 </div>
 </main>
 <style>
@@ -233,6 +233,12 @@
         font-weight: bold;
         font-size: 20px;
         position: relative;
+    }
+
+    .green-underline {
+        text-decoration: underline 2px;
+        text-decoration-color: #00ff08;
+        text-underline-offset: 3px;
     }
 
     /* .no-list p:after {
