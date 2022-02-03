@@ -3,12 +3,32 @@
 <main>
 <h1 style="text-align: center;">Income Without Extraction</h1>
 
-<!-- <h3 style="text-align: center;">No:</h3>
+<!-- <h3 style="text-align: center;">No:</h3> -->
 
 <div class="no-list" style="text-align: center; display: flex; flex-wrap: wrap;  justify-content: space-between;">
-    <p>Industrial Farming / Ranching</p>
+    <p><br>Mining</p>
+    <p><br>Genocide</p>
+    <p><br>Land Grabs</p>
+    <!-- <p>Factory<br>Farming</p> -->
+    <p><br>Deforestation</p>
+    <!-- <p>Poaching</p> -->
+    <p><span style="height: 10px; display: block"></span>Financializing<br>Nature</p>
+    <p><span style="height: 10px; display: block"></span>Carbon<br>Offsets</p>
+    <p><span style="height: 10px; display: block"></span>Extractive<br>Projects</p>
+</div>
+
+<!-- <div class="no-list" style="text-align: center; display: flex; flex-wrap: wrap;  justify-content: space-between;">
     <p>Mining</p>
+    <img src="https://dillonmarsh.com/images/copper05.jpg" alt="Mining: Copper ball in mining pit, representing the amount of metal extracted from the mined place">
+    <img src="https://i.imgur.com/IxqIjER.png" alt="Genocide: Village homes burning in Colombia at hands of paramilitaries">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Against_Elephant_Poaching.jpg" alt="Poaching: Ivory and poached parts on a table.">
+    <img src=""
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Burning_bush.png.jpg" alt="Deforestation: A forest landscape in flames.">
+    <p>Financializing<br>Nature</p>
+    <p>Carbon<br>Offsets</p>
+    <p>Ecosystem<br>Services</p>
     <p>Poaching</p>
+    <p>Industrial Farming / Ranching</p>
     <p>Deforestation</p>
     <p>Financializing Nature</p>
     <p>Carbon Offsets</p>
@@ -205,9 +225,43 @@
 </div>
 </main>
 <style>
-    /* .no-list p {
-        width: 100px;
+    .no-list * {
+        width: 150px;
+    }
+
+    .no-list p {
+        font-weight: bold;
+        font-size: 20px;
+        position: relative;
+    }
+
+    /* .no-list p:after {
+        background-image: url('x.svg');
+        background-size: 90px 90px;
+        height: 90px;
+        width: 90px;
+        display: block;
+        content: ' ';
+        position: absolute;
+        top: -10%;
+        left: 20%;
+        stroke-width: 1px;
+        opacity: 50%;
     } */
+    
+    .no-list p:after {
+        background-image: url('x.svg');
+        background-size: 120px 120px;
+        height: 120px;
+        width: 120px;
+        display: block;
+        content: ' ';
+        position: absolute;
+        top: -40%;
+        left: 10%;
+        stroke-width: 1px;
+        opacity: 50%;
+    }
 
     /* main {
         background: black;
